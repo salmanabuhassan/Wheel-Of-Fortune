@@ -28,4 +28,7 @@ the word Z, you gain $400.
 -Whoever solve the puzzle will win the reward that he accumulated
 throughout the game
 
+-A brief description regarding the puzzle solved will be displayed, for fun fact
+and additional general knowledge to you. 2 in 1! You got to play while also learning :)
+
 Enjoy the game!
